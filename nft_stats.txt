@@ -1,0 +1,11 @@
+project_name,date,floor_price,
+projectnanopass,03/14/22,2.04
+worldwidewebbland,03/14/22,1.93
+pixels-farm,03/14/22,0.7
+metroverse,03/14/22,1.835
+kaijumutant,03/14/22,0.538
+genesis-creepz,03/14/22,2.0
+cyberbrokers,03/14/22,2.93
+gnssbymgxs,03/14/22,0.949
+raidparty,03/14/22,0.82
+official-clementines-nightmare,03/14/22,0.37
